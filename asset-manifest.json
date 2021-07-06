@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/tdee-calculator/static/css/main.04b93d99.chunk.css",
-    "main.js": "/tdee-calculator/static/js/main.1c0e911c.chunk.js",
-    "main.js.map": "/tdee-calculator/static/js/main.1c0e911c.chunk.js.map",
+    "main.css": "/tdee-calculator/static/css/main.68cbf3b1.chunk.css",
+    "main.js": "/tdee-calculator/static/js/main.a26376d8.chunk.js",
+    "main.js.map": "/tdee-calculator/static/js/main.a26376d8.chunk.js.map",
     "runtime-main.js": "/tdee-calculator/static/js/runtime-main.35d3b8a3.js",
     "runtime-main.js.map": "/tdee-calculator/static/js/runtime-main.35d3b8a3.js.map",
     "static/css/2.7fc9bc2b.chunk.css": "/tdee-calculator/static/css/2.7fc9bc2b.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.48d89b9a.chunk.js.map": "/tdee-calculator/static/js/3.48d89b9a.chunk.js.map",
     "index.html": "/tdee-calculator/index.html",
     "static/css/2.7fc9bc2b.chunk.css.map": "/tdee-calculator/static/css/2.7fc9bc2b.chunk.css.map",
-    "static/css/main.04b93d99.chunk.css.map": "/tdee-calculator/static/css/main.04b93d99.chunk.css.map",
+    "static/css/main.68cbf3b1.chunk.css.map": "/tdee-calculator/static/css/main.68cbf3b1.chunk.css.map",
     "static/js/2.180c04fd.chunk.js.LICENSE.txt": "/tdee-calculator/static/js/2.180c04fd.chunk.js.LICENSE.txt",
     "static/media/stylesheet.css": "/tdee-calculator/static/media/SegoeUIBlack.d2335c14.woff",
     "static/media/custom.css": "/tdee-calculator/static/media/bgPattern.dc0f4e1e.png",
@@ -29,7 +29,7 @@
     "static/js/runtime-main.35d3b8a3.js",
     "static/css/2.7fc9bc2b.chunk.css",
     "static/js/2.180c04fd.chunk.js",
-    "static/css/main.04b93d99.chunk.css",
-    "static/js/main.1c0e911c.chunk.js"
+    "static/css/main.68cbf3b1.chunk.css",
+    "static/js/main.a26376d8.chunk.js"
   ]
 }
